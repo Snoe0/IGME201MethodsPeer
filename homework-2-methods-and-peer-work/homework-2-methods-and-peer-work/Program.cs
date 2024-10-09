@@ -10,12 +10,14 @@
             //Yuri should fix all the comments later :P check the rubric
             int result;
             int nickFavoriteNumber;
+            int yuriFavoriteNumber;
             
 
 
             //Initialize
             result = 0;
             nickFavoriteNumber = 37;
+            yuriFavoriteNumber = 16;
 
 
             //Partner B function
