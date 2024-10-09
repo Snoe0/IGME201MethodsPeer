@@ -1,20 +1,30 @@
-﻿namespace homework_2_methods_and_peer_work
+﻿/*
+ * Partner A: Yuri
+ * Partner B: Nick
+ * IGME 201.01 - Interactive Des & Alg Prob Sol III
+ * Due: 10/13/2024
+ */
+namespace homework_2_methods_and_peer_work
 {
     internal class Program
     {
 
         //Partner A Function
+        /// <summary>
+        /// Adds two functions
+        /// </summary>
+        /// <param name="num1"> first number to add </param>
+        /// <param name="num2"> second number to add </param>
+        /// <returns> sum of num 1 and num 2 </returns>
         static int Add(int num1, int num2)
         {
             int sum = num1 + num2;
-            return sum;   
+            return sum;
         }
         static void Main(string[] args)
         {
-            //Partner A: Yuri
-            //Partner B: Nick
+            
 
-            //Yuri should fix all the comments later :P check the rubric
             //Variables
             int sum;
             int result;
